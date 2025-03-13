@@ -6,7 +6,7 @@ A simple demo on how to set up an Android Client that connects to a WebSocket se
 ## Setup
 1) Sign up for a free PubNub account to get your Pub/Sub API keys.
 
- <a href="https://dashboard.pubnub.com/signup?devrel_gh=java-websocket-demo">
+ <a href="https://admin.pubnub.com/register">
     <img alt="PubNub Signup" src="https://i.imgur.com/og5DDjf.png" width=260 height=97/>
   </a>
 
